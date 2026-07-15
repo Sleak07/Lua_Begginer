@@ -1,0 +1,2 @@
+1. Ask for input directory
+condition
